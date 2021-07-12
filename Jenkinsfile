@@ -1,6 +1,6 @@
 pipeline {
    agent any
-
+   // This is testing the edition
    environment {
      // You must set the following environment variables
      // ORGANIZATION_NAME
